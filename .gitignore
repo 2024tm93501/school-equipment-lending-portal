@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / Vite
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Claude Code local settings
+.claude/
+
+# Old debug/test scripts
+/run_test.bat
+/start_server.bat
+
+# Root-level debug/test artifacts from development
+/*_test.py
+/*_test.txt
+/import_*.py
+/import_*.txt
+/sa_*.py
+/sa_*.txt
+/pyd_test.*
+/greenlet_test.*
+/hcy_test.*
+/pip*.txt
+/pyver*.txt
+/bcrypt_test.*
+/backend_test_*.txt
+/compat_test.*
+/coll_test.*
+/step*.py
+/step*.txt
+/util_test*.py
+/util_test*.txt
+/longwait.*
+/timing*.py
+/timing*.txt
+/preload_test.*
+/test_*.py
+/test_*.txt
+/server_output.log
+/server*.log
+
+# Docker database volume
+backend/db/*.db

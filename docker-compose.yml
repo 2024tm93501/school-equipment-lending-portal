@@ -1,0 +1,11 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/db:/app/db
+    environment:
+      - SECRET_KEY=supersecretkey123
+      - DATABASE_URL=sqlite:////app/db/school_equipment.db
+      - ACCESS_TOKEN_EXPIRE_MINUTES=1440
