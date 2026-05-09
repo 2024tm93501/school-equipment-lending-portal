@@ -1,7 +1,7 @@
 # AI Usage Log — SE ZG503 Assignment
 
-**Student:** [Your Name]  
-**ID:** [Your BITS ID]  
+**Student:** ASHIS D  
+**ID:** 2024TM93501  
 **AI Tool Used:** Claude (Claude Code CLI)  
 **Approach:** Option A — Build with AI assistance and reflect on usage
 

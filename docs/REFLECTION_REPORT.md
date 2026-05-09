@@ -1,7 +1,7 @@
 # AI Reflection Report — SE ZG503 Assignment
 
-**Student:** [Your Name]  
-**ID:** [Your BITS ID]  
+**Student:** ASHIS D  
+**ID:** 2024TM93501  
 **Date:** 9 May 2026  
 **AI Tool:** Claude (Claude Code CLI)  
 **Approach:** Option A — Build with AI assistance
