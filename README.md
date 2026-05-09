@@ -129,6 +129,12 @@ Backend starts at `http://localhost:8000`. The SQLite database is persisted in `
 
 ---
 
+## Demo Video
+
+[Watch the demonstration video on Google Drive](https://drive.google.com/file/d/1dijtDvNjFq9NnntfICPodJIdVYKN-AoH/view?usp=sharing)
+
+---
+
 ## Documentation
 
 | File | Contents |
